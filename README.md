@@ -1,4 +1,4 @@
-# quantum_mechanics
+# Quantum Mechanics
 Some python programs to help with quantum mechanics-related problems
 
 ***Fortuin-Kasteleyn Representation***: aka the random cluster model: a random graph that generalizes and unifies 
